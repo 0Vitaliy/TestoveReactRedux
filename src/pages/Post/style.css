@@ -1,0 +1,12 @@
+.postItem{
+  padding: 10px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.07);
+  border-radius: 5px;
+}
+
+.postItem_title,.postItem_date{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

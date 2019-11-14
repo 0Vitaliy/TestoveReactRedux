@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "data": "2019-11-14",
+      "body": "sdfs",
+      "category": "Policy",
+      "id": 1,
+      "date": "2019-11-15"
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 2,
+      "category": "Sport",
+      "date": "2019-11-13"
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 3,
+      "category": "Policy",
+      "date": "2019-11-13"
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "data": "2019-11-14",
+      "body": "sdfs",
+      "category": "afdsf",
+      "id": 4
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "date": "2019-11-14",
+      "category": "afdsf",
+      "id": 5
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "date": "2019-11-14",
+      "category": "afdsf",
+      "id": 6
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "date": "2019-11-14",
+      "category": "afdsf",
+      "id": 7
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "date": "2019-11-14",
+      "category": "afdsf",
+      "id": 8
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "date": "2019-11-14",
+      "category": "afdsf",
+      "id": 9
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "date": "2019-11-14",
+      "category": "afdsf",
+      "id": 10
+    },
+    {
+      "title": "bb",
+      "author": "kjkh",
+      "date": "2019-11-16",
+      "category": "Policy",
+      "id": 14
+    },
+    {
+      "title": "bb",
+      "author": "kjkh",
+      "date": "2019-11-16",
+      "category": "Policy",
+      "id": 15
+    },
+    {
+      "title": "hkhj",
+      "author": "gjhgjh",
+      "date": "2019-11-12",
+      "category": "Policy",
+      "id": 16
+    },
+    {
+      "title": "вівап",
+      "author": "я",
+      "date": "2019-11-14",
+      "category": "Sport",
+      "id": 17
+    },
+    {
+      "title": "sdfsdfs",
+      "author": "sdfsdf",
+      "body": "dfsdf",
+      "date": "2019-11-14",
+      "category": "Sport",
+      "id": 18
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
