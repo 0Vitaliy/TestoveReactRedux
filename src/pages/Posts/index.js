@@ -76,17 +76,17 @@ const Posts = ({ pos, addList }) =>{
                             variant="contained"
                             color="secondary"
                             onClick={()=>delPost(post.id)}
-                        >Видалити</Button>
+                        >Delete</Button>
                         <Link to={`/post/${post.id}`}>
                             <Button
                                 variant="contained"
-                            >Редагувати</Button>
+                            >Edit</Button>
                         </Link>
                         <Link to={`/posts/${post.id}`}>
                             <Button
                                 variant="contained"
                                 color="primary"
-                            >Переглянути</Button>
+                            >Review</Button>
                         </Link>
 
                     </div>
