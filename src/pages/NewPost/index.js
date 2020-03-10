@@ -93,11 +93,6 @@ const PostEditor = ({match}) =>{
                 value={dataAddPost.body}
                 onChange={onChangeTitle}
             />
-            {/*<Editor*/}
-            {/*    editorState={editorState}*/}
-            {/*    onChange={setEditorState}*/}
-            {/*    placeholder="Здесь можно печатать..."*/}
-            {/*/>*/}
             <Select
                 name='category'
                 displayEmpty
