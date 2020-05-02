@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom'
 
 import Sidebar from "./pages/Sidebar";
-import HomePage from './pages/HomePage'
+import HomePage from './pages/HomePage/index.tsx'
 import PostItem from './pages/Post'
 import Posts from './pages/Posts'
 import PostEditor from './pages/NewPost'
