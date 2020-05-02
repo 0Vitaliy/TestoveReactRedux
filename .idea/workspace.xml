@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34d81b39-6577-484b-aa5e-aba270e744d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/posts.ts" afterDir="false" />
-    </list>
+    <list default="true" id="38ac7605-181d-4174-a616-eba272a5ee75" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1YDF4v0dJl2Jo087eVWh2iNy70O" />
+  <component name="ProjectId" id="1bGvmWJ0Bar7HuoifAf2usU2k6W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,30 +25,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Андрей\Desktop\react-router - testove\src\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Андрей\Desktop\react-router - testove\src\pages\HomePage" />
-      <recent name="C:\Users\Андрей\Desktop\react-router - testove\src\pages\Post" />
-      <recent name="C:\Users\Андрей\Desktop\react-router - testove\src\pages\Posts" />
-      <recent name="C:\Users\Андрей\Desktop\react-router - testove\src\pages" />
-      <recent name="C:\Users\Андрей\Desktop\react-router - testove\src\pages\NewPost" />
+      <recent name="C:\Users\User\Desktop\nextjs-react-redux-example" />
+      <recent name="C:\Users\User\Desktop\nextjs-react-redux-example\redux\actions" />
+      <recent name="C:\Users\User\Desktop\nextjs-react-redux-example\redux\reducers" />
+      <recent name="C:\Users\User\Desktop\nextjs-react-redux-example\pages\post" />
+      <recent name="C:\Users\User\Desktop\nextjs-react-redux-example\pages" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -58,31 +51,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="34d81b39-6577-484b-aa5e-aba270e744d3" name="Default Changelist" comment="" />
-      <created>1537096526547</created>
+      <changelist id="38ac7605-181d-4174-a616-eba272a5ee75" name="Default Changelist" comment="" />
+      <created>1588271403727</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537096526547</updated>
-      <workItem from="1537096548897" duration="1550000" />
-      <workItem from="1537115289734" duration="767000" />
-      <workItem from="1537726782699" duration="513000" />
-      <workItem from="1538902233412" duration="823000" />
-      <workItem from="1573124698899" duration="647000" />
-      <workItem from="1573132454331" duration="852000" />
-      <workItem from="1573165124874" duration="5503000" />
-      <workItem from="1573196014868" duration="8600000" />
-      <workItem from="1573227253084" duration="3362000" />
-      <workItem from="1573558349280" duration="19604000" />
-      <workItem from="1573628649905" duration="38654000" />
-      <workItem from="1573719774371" duration="11912000" />
-      <workItem from="1573732388070" duration="740000" />
-      <workItem from="1574068707311" duration="233000" />
-      <workItem from="1582469074561" duration="248000" />
-      <workItem from="1582478024741" duration="2000" />
-      <workItem from="1582532702151" duration="19000" />
-      <workItem from="1582534230767" duration="885000" />
-      <workItem from="1583823060708" duration="2044000" />
-      <workItem from="1587891448486" duration="4215000" />
+      <updated>1588271403727</updated>
+      <workItem from="1588271405698" duration="5123000" />
+      <workItem from="1588317198920" duration="23692000" />
+      <workItem from="1588397211649" duration="13444000" />
+      <workItem from="1588412976834" duration="261000" />
+      <workItem from="1588413421272" duration="1928000" />
     </task>
     <servers />
   </component>
@@ -90,10 +68,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1587895314471">
+    <state x="2503" y="28" key="CommitChangelistDialog2" timestamp="1588279932023">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587895314471" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582535182556" />
+    <state x="2503" y="28" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588279932023" />
   </component>
 </project>
