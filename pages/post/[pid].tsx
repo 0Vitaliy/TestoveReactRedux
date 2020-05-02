@@ -88,11 +88,12 @@ const Text = styled.p`
 `;
 
 const ButtonDelete = styled.button`
-   background:red;
-   padding:10px;
-   color:#fff;
-   border:none;
-   border-radius:10px;
+   background: red;
+   cursor: pointer;
+   padding: 10px;
+   color: #fff;
+   border: none;
+   border-radius: 10px;
 `;
 
 const Textarea = styled.textarea`
